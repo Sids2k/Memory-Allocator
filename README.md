@@ -10,6 +10,7 @@ The data structure containing allocated memory has the starting address of the m
 ## Usage
 Users can allocate memory of a certain size (Allocate) or free up memory starting at a certain address (Free) or combine all fragmented continous free memory blocks (Defragment).
 
+The user can input commands using the below format after calling ```run.sh```.
 ### Format of giving commands
 
 ``` 
